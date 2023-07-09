@@ -6,3 +6,6 @@ The aim of this project is to analyse the sentiments of the reviews. This allows
 
 ## Tools utilised:
 Python: pandas, sklearn, metplotlib, nltk, wordcloud
+
+## Data
+https://drive.google.com/file/d/1bXotNR-Rwvlim89LZkii62wS4HKm2ceX/view?usp=sharing
